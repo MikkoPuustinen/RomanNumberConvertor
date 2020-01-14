@@ -55,6 +55,7 @@ public class View implements ViewIF{
 		System.out.println("Commands:\nq: quit the app\nh: print this help\n\nConvert roman numbers by"
 				+ " typing the number you want to convert. The app will not accept any characters \nthat are not "
 				+ "roman numerals. The accepted numerals are: M, D, C, L, X, V, I. The app will "
-				+ "also not accept malformed roman numerals. \nSee ... for correct formatting.");
+				+ "also not accept malformed roman numerals. \nSee the Wikipedia page for roman numbers"
+				+ " for correct formatting.");
 	}
 }
